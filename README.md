@@ -1,6 +1,6 @@
 # jpa02-miguel-luis9
 
-  https:://github.com/ucsb-cs156-s24/jpa02-miguel-luis9
+  https://github.com/ucsb-cs156-s24/jpa02-miguel-luis9 
 
   Repo: https://ucsb-cs156-f23/STARTER-jpa02
 
